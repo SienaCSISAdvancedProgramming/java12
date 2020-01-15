@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+"/c/Program Files/Java/jdk-12.0.2/bin/java" "$@"
